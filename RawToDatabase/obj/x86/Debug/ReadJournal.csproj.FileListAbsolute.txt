@@ -1,0 +1,23 @@
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\Read Journal\RawToDatabase\bin\Debug\ReadJournal.exe
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\Read Journal\RawToDatabase\bin\Debug\ReadJournal.pdb
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\Read Journal\RawToDatabase\obj\x86\Debug\RawToDatabase.Form1.resources
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\Read Journal\RawToDatabase\obj\x86\Debug\RawToDatabase.Properties.Resources.resources
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\Read Journal\RawToDatabase\obj\x86\Debug\ReadJournal.csproj.GenerateResource.Cache
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\Read Journal\RawToDatabase\obj\x86\Debug\ReadJournal.exe
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\Read Journal\RawToDatabase\obj\x86\Debug\ReadJournal.pdb
+D:\Read Journal\RawToDatabase\obj\x86\Debug\ReadJournal.exe
+D:\Read Journal\RawToDatabase\obj\x86\Debug\ReadJournal.pdb
+D:\Read Journal\RawToDatabase\bin\Debug\ReadJournal.exe
+D:\Read Journal\RawToDatabase\bin\Debug\ReadJournal.pdb
+D:\Read Journal\RawToDatabase\obj\x86\Debug\RawToDatabase.Form1.resources
+D:\Read Journal\RawToDatabase\obj\x86\Debug\RawToDatabase.Properties.Resources.resources
+D:\Read Journal\RawToDatabase\obj\x86\Debug\ReadJournal.csproj.GenerateResource.Cache
+D:\Read Journal\RawToDatabase\obj\x86\Debug\ReadJournal.csprojResolveAssemblyReference.cache
+D:\GIT\Read Journal\RawToDatabase\obj\x86\Debug\ReadJournal.exe
+D:\GIT\Read Journal\RawToDatabase\obj\x86\Debug\ReadJournal.pdb
+D:\GIT\Read Journal\RawToDatabase\bin\Debug\ReadJournal.exe
+D:\GIT\Read Journal\RawToDatabase\bin\Debug\ReadJournal.pdb
+D:\GIT\Read Journal\RawToDatabase\obj\x86\Debug\ReadJournal.csprojResolveAssemblyReference.cache
+D:\GIT\Read Journal\RawToDatabase\obj\x86\Debug\RawToDatabase.Form1.resources
+D:\GIT\Read Journal\RawToDatabase\obj\x86\Debug\RawToDatabase.Properties.Resources.resources
+D:\GIT\Read Journal\RawToDatabase\obj\x86\Debug\ReadJournal.csproj.GenerateResource.Cache

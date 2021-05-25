@@ -1,0 +1,859 @@
+[000001] 26/10/2019 06:32:55 ==> Transaction Start
+[000002] 26/10/2019 06:32:57 Terminal Id: 200031
+[000003] 26/10/2019 06:32:57 Card Inserted
+[000004] 26/10/2019 06:32:57 Card Number: 4602211110636450
+[000005] 26/10/2019 06:33:02 FINAL_APP_SELECTION_SUCCESS
+[000006] 26/10/2019 06:33:06 PIN ENTERED
+[000007] 26/10/2019 06:33:06 PIN Entered: 4602211110636450
+[000008] 26/10/2019 06:33:07 Transaction Req. Send: Succeeded
+[000009] 26/10/2019 06:33:07 [OP Code]: [C       ]
+[000010] 26/10/2019 06:33:07 [Amount Entry Field]: [000000000000]
+[000011] 26/10/2019 06:33:07 Host Communication Down
+[000012] 26/10/2019 06:33:57 Transaction Req. Send: Host Timeout
+[000013] 26/10/2019 06:33:58 Card Ejected
+[000014] 26/10/2019 06:34:00 Card Removed
+[000015] 26/10/2019 06:34:00 <== Transaction End
+[000016] 26/10/2019 06:34:02 Mode: InService -> OffLine
+[000017] 26/10/2019 06:34:02 Host Communication Up
+[000018] 26/10/2019 06:34:07 Mode: OffLine -> InService
+[000019] 26/10/2019 06:34:08 GO IN-SERVICE
+[000020] 26/10/2019 06:34:08 Received: Inservice
+[000021] 26/10/2019 06:34:09 Received: Inservice
+[000022] 26/10/2019 09:27:44 ==> Transaction Start
+[000023] 26/10/2019 09:27:46 Terminal Id: 200031
+[000024] 26/10/2019 09:27:46 Card Inserted
+[000025] 26/10/2019 09:27:47 Card Number: 6064201620649545
+[000026] 26/10/2019 09:27:51 FINAL_APP_SELECTION_SUCCESS
+[000027] 26/10/2019 09:27:56 PIN ENTERED
+[000028] 26/10/2019 09:27:57 PIN Entered: 6064201620649545
+[000029] 26/10/2019 09:27:57 Transaction Req. Send: Succeeded
+[000030] 26/10/2019 09:27:57 [OP Code]: [B       ]
+[000031] 26/10/2019 09:27:57 [Amount Entry Field]: [000000000000]
+[000032] 26/10/2019 09:27:58 [Next State]: [013]
+[000033] 26/10/2019 09:27:58 [Function Identifier]: [3]
+[000034] 26/10/2019 09:27:58 Transaction Res. Received
+[000035] 26/10/2019 09:28:05 Solicited Status Send: Succeeded
+[000036] 26/10/2019 09:28:05 TRANSACTION DATA (COMPLETED)
+[Transaction record]
+OPCode       		 [B       ]
+Function ID       	 [3]
+Card Number 		 [6064201620649545]
+Amount       		 [000000000000]
+Trans SEQ Number [9999]
+Error Code   []
+
+[000037] 26/10/2019 09:28:08 Transaction Req. Send: Succeeded
+[000038] 26/10/2019 09:28:08 [OP Code]: [B       ]
+[000039] 26/10/2019 09:28:08 [Amount Entry Field]: [000002000000]
+[000040] 26/10/2019 09:28:08 [Next State]: [833]
+[000041] 26/10/2019 09:28:08 [Function Identifier]: [5]
+[000042] 26/10/2019 09:28:08 Transaction Res. Received
+[000043] 26/10/2019 09:28:09 Solicited Status Send: Succeeded
+[000044] 26/10/2019 09:28:09 TRANSACTION DATA (COMPLETED)
+[Transaction record]
+OPCode       		 [B       ]
+Function ID       	 [5]
+Card Number 		 [6064201620649545]
+Amount       		 [000002000000]
+Trans SEQ Number [3469]
+Error Code   []
+
+[000045] 26/10/2019 09:28:12 Information Entry : 20
+[000046] 26/10/2019 09:28:13 Transaction Req. Send: Succeeded
+[000047] 26/10/2019 09:28:13 [OP Code]: [B       ]
+[000048] 26/10/2019 09:28:13 [Amount Entry Field]: [000002000000]
+[000049] 26/10/2019 09:28:13 [Next State]: [301]
+[000050] 26/10/2019 09:28:13 [Function Identifier]: [5]
+[000051] 26/10/2019 09:28:13 Transaction Res. Received
+[000052] 26/10/2019 09:28:13 Solicited Status Send: Succeeded
+[000053] 26/10/2019 09:28:13 TRANSACTION DATA (COMPLETED)
+[Transaction record]
+OPCode       		 [B       ]
+Function ID       	 [5]
+Card Number 		 [6064201620649545]
+Amount       		 [000002000000]
+Trans SEQ Number [3469]
+Error Code   []
+
+[000054] 26/10/2019 09:28:16 Transaction Req. Send: Succeeded
+[000055] 26/10/2019 09:28:16 [OP Code]: [B      C]
+[000056] 26/10/2019 09:28:16 [Amount Entry Field]: [000002000000]
+[000057] 26/10/2019 09:28:18 [Next State]: [017]
+[000058] 26/10/2019 09:28:18 [Function Identifier]: [2]
+[000059] 26/10/2019 09:28:18 Transaction Res. Received
+[000060] 26/10/2019 09:28:29 Notes Dispensed: 
+IDR100000*20
+Total Amount IDR 2000000
+A0503:B0037:C0336:D0323:E0001:F0008:R0000
+[000061] 26/10/2019 09:28:29 
+Dispensed Note
+WDT470345,CDO527920,ECG600188,OAT714172,HDE630431,
+UFD445068,UFD445069,UFD445070,GFC815126,RGC643031,
+RGF578704,FCB733518,YDB949072,WGL329550,OFQ943837,
+PES315411,OBJ743435,VCS769741,GEQ601194,KGS655979
+[000062] 26/10/2019 09:28:34 Cash Presented
+[000063] 26/10/2019 09:28:34 Solicited Status Send: Succeeded
+[000064] 26/10/2019 09:28:35 Received: Inservice
+[000065] 26/10/2019 09:28:37 Cash Taken
+[000066] 26/10/2019 09:28:39 Printed Receipt Printer
+[000067] 26/10/2019 09:28:43 TRANSACTION DATA (COMPLETED)
+[Transaction record]
+OPCode       		 [B      C]
+Function ID       	 [2]
+Card Number 		 [6064201620649545]
+Amount       		 [000002000000]
+Denomination 	 [B,B,C,C]
+Request Count 	 [00,00,20,00]
+Dispense Count 	 [0,0,20,0]
+Remain Count 	 [503,37,336,323]
+Pickup Count    	 [0,0,20,0]
+Reject Count    	 [0,0,0,0]
+Trans SEQ Number [4216]
+Error Code   [0000000]
+[Jpr contents]
++++++++++++++++++++++++++++++++++++++++++++++
+
+ 26-10-2019      09:27:02 WIB
+ATM ID     :02200031
+LOCATION   :CRM Mangkuluhur
+SEQ.NO.    :004216
+RECEIPT NO.:003100004216
+
+FASTCASH WITHDRAWAL
+AMOUNT     :  Rp.2,000,000.00
+BALANCE    :  Rp.1,878,450.00
+
+    THANK YOU FOR USING
+       ATM KEB HANA
+
+
+
+
+
+
+
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++
+[000068] 26/10/2019 09:28:48 Card Ejected
+[000069] 26/10/2019 09:28:50 Card Removed
+[000070] 26/10/2019 09:28:51 <== Transaction End
+[000071] 26/10/2019 09:29:02 ==> Transaction Start
+[000072] 26/10/2019 09:29:04 Terminal Id: 200031
+[000073] 26/10/2019 09:29:04 Card Inserted
+[000074] 26/10/2019 09:29:04 Card Number: 6064201000146013
+[000075] 26/10/2019 09:29:08 FINAL_APP_SELECTION_SUCCESS
+[000076] 26/10/2019 09:29:13 PIN ENTERED
+[000077] 26/10/2019 09:29:13 PIN Entered: 6064201000146013
+[000078] 26/10/2019 09:29:13 Transaction Req. Send: Succeeded
+[000079] 26/10/2019 09:29:13 [OP Code]: [C       ]
+[000080] 26/10/2019 09:29:13 [Amount Entry Field]: [000000000000]
+[000081] 26/10/2019 09:29:14 [Next State]: [213]
+[000082] 26/10/2019 09:29:14 [Function Identifier]: [3]
+[000083] 26/10/2019 09:29:14 Transaction Res. Received
+[000084] 26/10/2019 09:29:22 Solicited Status Send: Succeeded
+[000085] 26/10/2019 09:29:22 TRANSACTION DATA (COMPLETED)
+[Transaction record]
+OPCode       		 [C       ]
+Function ID       	 [3]
+Card Number 		 [6064201000146013]
+Amount       		 [000000000000]
+Trans SEQ Number [9999]
+Error Code   []
+
+[000086] 26/10/2019 09:29:35 Deposit: Shutter opened for notes insertion
+[000087] 26/10/2019 09:29:37 Notes inserted in hopper
+[000088] 26/10/2019 09:29:48 Notes Counted:
+IDR100000 x 15
+Total Amount IDR 1500000
+Accepted Note
+WDT470345,CDO527920,ECG600188,OAT714172,HDE630431,
+UFD445068,UFD445069,UFD445070,GFC815126,RGC643031,
+RGF578704,FCB733518,YDB949072,WGL329550,OFQ943837
+A0503:B0037:C0336:D0323:E0001:F0008:R0000
+[000089] 26/10/2019 09:29:51 Deposit Confirmed
+[000090] 26/10/2019 09:29:53 Transaction Req. Send: Succeeded
+[000091] 26/10/2019 09:29:53 [OP Code]: [CH      ]
+[000092] 26/10/2019 09:29:53 [Amount Entry Field]: [000150000000]
+[000093] 26/10/2019 09:29:55 [Next State]: [233]
+[000094] 26/10/2019 09:29:55 [Function Identifier]: [-]
+[000095] 26/10/2019 09:29:55 Transaction Res. Received
+[000096] 26/10/2019 09:29:55 Solicited Status Send: Succeeded
+[000097] 26/10/2019 09:29:56 Received: Inservice
+[000098] 26/10/2019 09:30:04 Host Store: Stored
+IDR100000 :15
+A0503:B0037:C0336:D0338:E0001:F0008:R0000
+[000099] 26/10/2019 09:30:06 Printed Receipt Printer
+[000100] 26/10/2019 09:30:09 TRANSACTION DATA (COMPLETED)
+[Transaction record]
+OPCode       		 [CH      ]
+Function ID       	 [-]
+Card Number 		 [6064201000146013]
+Amount       		 [000150000000]
+Trans SEQ Number [3466]
+Error Code   [0000000]
+Rejected Count 	 [0]
+Stored Count 
+[100000, 15]
+A0503:B0037:C0336:D0338:E0001:F0008:R0000
+Stored Note 
+[WDT470345,CDO527920,ECG600188,OAT714172,HDE630431,
+UFD445068,UFD445069,UFD445070,GFC815126,RGC643031,
+RGF578704,FCB733518,YDB949072,WGL329550,OFQ943837]
+[Jpr contents]
++++++++++++++++++++++++++++++++++++++++++++++
+                 
+  26-10-2019      09:28:39 WIB
+ATM ID      :02200031
+LOKASI      :CRM Mangkuluhur
+
+NO. URUT    :004261
+
+SETOR      
+BANK TUJUAN :KEB HANA BANK
+REK. TUJUAN :110121900028312               
+NAMA        :EKA RINDIANI SAFITRI               
+SETOR       :Rp.1,500,000.00
+SALDO       :Rp.4,343,513.00
+
+ TERIMA KASIH TELAH MENGGUNAKAN
+       ATM KEB HANA
+
+
+
+
+
+
+
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++
+[000101] 26/10/2019 09:30:14 Card Ejected
+[000102] 26/10/2019 09:30:15 Card Removed
+[000103] 26/10/2019 09:30:15 <== Transaction End
+[000104] 26/10/2019 09:34:21 ==> Transaction Start
+[000105] 26/10/2019 09:34:23 Terminal Id: 200031
+[000106] 26/10/2019 09:34:23 Card Inserted
+[000107] 26/10/2019 09:34:23 Card Number: 6064201110064809
+[000108] 26/10/2019 09:34:27 FINAL_APP_SELECTION_SUCCESS
+[000109] 26/10/2019 09:34:34 PIN ENTERED
+[000110] 26/10/2019 09:34:35 PIN Entered: 6064201110064809
+[000111] 26/10/2019 09:34:35 Transaction Req. Send: Succeeded
+[000112] 26/10/2019 09:34:35 [OP Code]: [C       ]
+[000113] 26/10/2019 09:34:35 [Amount Entry Field]: [000000000000]
+[000114] 26/10/2019 09:35:25 Transaction Req. Send: Host Timeout
+[000115] 26/10/2019 09:35:27 Card Ejected
+[000116] 26/10/2019 09:35:29 Card Removed
+[000117] 26/10/2019 09:35:30 <== Transaction End
+[000118] 26/10/2019 12:58:41 ==> Transaction Start
+[000119] 26/10/2019 12:58:41 Cardless Menu
+[000120] 26/10/2019 12:58:42 Transaction Req. Send: Succeeded
+[000121] 26/10/2019 12:58:42 [OP Code]: [        ]
+[000122] 26/10/2019 12:58:42 [Amount Entry Field]: [000000000000]
+[000123] 26/10/2019 12:59:32 Transaction Req. Send: Host Timeout
+[000124] 26/10/2019 12:59:33 REJECT REASON=IllegalMessageType, QUALIFIER=1
+[000125] 26/10/2019 12:59:37 <== Transaction End
+[000126] 26/10/2019 12:59:38 REJECT REASON=IllegalMessageType, QUALIFIER=1
+[000127] 26/10/2019 13:00:06 ==> Transaction Start
+[000128] 26/10/2019 13:00:06 Cardless Menu
+[000129] 26/10/2019 13:00:07 Transaction Req. Send: Succeeded
+[000130] 26/10/2019 13:00:07 [OP Code]: [        ]
+[000131] 26/10/2019 13:00:07 [Amount Entry Field]: [000000000000]
+[000132] 26/10/2019 13:00:26 [Next State]: [204]
+[000133] 26/10/2019 13:00:26 [Function Identifier]: [2]
+[000134] 26/10/2019 13:00:27 Transaction Res. Received
+[000135] 26/10/2019 13:00:36 Notes Dispensed: 
+IDR100000*5
+Total Amount IDR 500000
+A0503:B0037:C0331:D0338:E0001:F0008:R0000
+[000136] 26/10/2019 13:00:36 
+Dispensed Note
+RFC962886,GEU289659,SBB342406,TGJ523282,ZBN073270
+[000137] 26/10/2019 13:00:41 Cash Presented
+[000138] 26/10/2019 13:00:41 Solicited Status Send: Succeeded
+[000139] 26/10/2019 13:00:42 Received: Inservice
+[000140] 26/10/2019 13:00:45 Cash Taken
+[000141] 26/10/2019 13:00:46 Printed Receipt Printer
+[000142] 26/10/2019 13:00:50 TRANSACTION DATA (COMPLETED)
+[Transaction record]
+OPCode       		 [        ]
+Function ID       	 [2]
+Card Number 		 []
+Amount       		 [000000000000]
+Denomination 	 [B,B,C,C]
+Request Count 	 [00,00,05,00]
+Dispense Count 	 [0,0,5,0]
+Remain Count 	 [503,37,331,338]
+Pickup Count    	 [0,0,5,0]
+Reject Count    	 [0,0,0,0]
+Trans SEQ Number [2309]
+Error Code   [0000000]
+[Jpr contents]
++++++++++++++++++++++++++++++++++++++++++++++
+
+ 26/10/2019      12:59:11
+ATM ID      :02200031
+LOCATION    :CRM Mangkuluhur
+SEQ.NO.     :009988
+
+CARDLESS WITHDRAWAL
+AMOUNT      :  Rp.500,000.00
+BALANCE     :  Rp.312,948.00
+
+ TERIMA KASIH TELAH MENGGUNAKAN
+       ATM KEB HANA
+
+
+
+
+
+
+
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++
+[000143] 26/10/2019 13:00:55 <== Transaction End
+[000144] 26/10/2019 13:00:57 ==> Transaction Start
+[000145] 26/10/2019 13:00:57 Cardless Menu
+[000146] 26/10/2019 13:00:58 Transaction Req. Send: Succeeded
+[000147] 26/10/2019 13:00:58 [OP Code]: [        ]
+[000148] 26/10/2019 13:00:58 [Amount Entry Field]: [000000000000]
+[000149] 26/10/2019 13:01:25 [Next State]: [204]
+[000150] 26/10/2019 13:01:25 [Function Identifier]: [2]
+[000151] 26/10/2019 13:01:25 Transaction Res. Received
+[000152] 26/10/2019 13:01:34 Notes Dispensed: 
+IDR100000*3
+Total Amount IDR 300000
+A0503:B0037:C0328:D0338:E0001:F0008:R0000
+[000153] 26/10/2019 13:01:34 
+Dispensed Note
+QFH242167,WBU435475,NAW418093
+[000154] 26/10/2019 13:01:39 Cash Presented
+[000155] 26/10/2019 13:01:39 Solicited Status Send: Succeeded
+[000156] 26/10/2019 13:01:40 Received: Inservice
+[000157] 26/10/2019 13:01:43 Cash Taken
+[000158] 26/10/2019 13:01:44 Printed Receipt Printer
+[000159] 26/10/2019 13:01:48 TRANSACTION DATA (COMPLETED)
+[Transaction record]
+OPCode       		 [        ]
+Function ID       	 [2]
+Card Number 		 []
+Amount       		 [000000000000]
+Denomination 	 [B,B,C,C]
+Request Count 	 [00,00,03,00]
+Dispense Count 	 [0,0,3,0]
+Remain Count 	 [503,37,328,338]
+Pickup Count    	 [0,0,3,0]
+Reject Count    	 [0,0,0,0]
+Trans SEQ Number [2363]
+Error Code   [0000000]
+[Jpr contents]
++++++++++++++++++++++++++++++++++++++++++++++
+
+ 26/10/2019      13:00:09
+ATM ID      :02200031
+LOCATION    :CRM Mangkuluhur
+SEQ.NO.     :009988
+
+CARDLESS WITHDRAWAL
+AMOUNT      :  Rp.300,000.00
+BALANCE     :  Rp.12,948.00
+
+ TERIMA KASIH TELAH MENGGUNAKAN
+       ATM KEB HANA
+
+
+
+
+
+
+
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++
+[000160] 26/10/2019 13:01:53 <== Transaction End
+[000161] 26/10/2019 15:21:51 ==> Transaction Start
+[000162] 26/10/2019 15:21:53 Terminal Id: 200031
+[000163] 26/10/2019 15:21:53 Card Inserted
+[000164] 26/10/2019 15:21:54 Card Number: 4602211110680706
+[000165] 26/10/2019 15:21:58 FINAL_APP_SELECTION_SUCCESS
+[000166] 26/10/2019 15:22:05 PIN ENTERED
+[000167] 26/10/2019 15:22:05 PIN Entered: 4602211110680706
+[000168] 26/10/2019 15:22:06 Transaction Req. Send: Succeeded
+[000169] 26/10/2019 15:22:06 [OP Code]: [B       ]
+[000170] 26/10/2019 15:22:06 [Amount Entry Field]: [000000000000]
+[000171] 26/10/2019 15:22:06 [Next State]: [013]
+[000172] 26/10/2019 15:22:06 [Function Identifier]: [3]
+[000173] 26/10/2019 15:22:06 Transaction Res. Received
+[000174] 26/10/2019 15:22:14 Solicited Status Send: Succeeded
+[000175] 26/10/2019 15:22:14 TRANSACTION DATA (COMPLETED)
+[Transaction record]
+OPCode       		 [B       ]
+Function ID       	 [3]
+Card Number 		 [4602211110680706]
+Amount       		 [000000000000]
+Trans SEQ Number [9999]
+Error Code   []
+
+[000176] 26/10/2019 15:22:27 Deposit: Shutter opened for notes insertion
+[000177] 26/10/2019 15:22:32 Notes inserted in hopper
+[000178] 26/10/2019 15:22:42 Notes Counted:
+IDR100000 x 4
+Total Amount IDR 400000
+Accepted Note
+KBG570773,GDO364008,AEB721187
+A0503:B0037:C0328:D0338:E0001:F0008:R0000
+[000179] 26/10/2019 15:22:46 Deposit Confirmed
+[000180] 26/10/2019 15:22:52 Transaction Req. Send: Succeeded
+[000181] 26/10/2019 15:22:52 [OP Code]: [BH      ]
+[000182] 26/10/2019 15:22:52 [Amount Entry Field]: [000040000000]
+[000183] 26/10/2019 15:22:53 [Next State]: [033]
+[000184] 26/10/2019 15:22:53 [Function Identifier]: [-]
+[000185] 26/10/2019 15:22:53 Transaction Res. Received
+[000186] 26/10/2019 15:22:53 Solicited Status Send: Succeeded
+[000187] 26/10/2019 15:22:54 Received: Inservice
+[000188] 26/10/2019 15:23:01 Host Store: Stored
+IDR100000 :4
+A0503:B0037:C0328:D0342:E0001:F0008:R0000
+[000189] 26/10/2019 15:23:03 Printed Receipt Printer
+[000190] 26/10/2019 15:23:06 TRANSACTION DATA (COMPLETED)
+[Transaction record]
+OPCode       		 [BH      ]
+Function ID       	 [-]
+Card Number 		 [4602211110680706]
+Amount       		 [000040000000]
+Trans SEQ Number [3466]
+Error Code   [0000000]
+Rejected Count 	 [0]
+Stored Count 
+[100000, 4]
+A0503:B0037:C0328:D0342:E0001:F0008:R0000
+Stored Note 
+[DAA551101,KBG570773,GDO364008]
+[Jpr contents]
++++++++++++++++++++++++++++++++++++++++++++++
+                 
+  26-10-2019      15:21:38 WIB
+ATM ID      :02200031
+LOCATION    :CRM Mangkuluhur
+
+SEQ.NO.     :010783
+
+DEPOSIT      
+BENE. BANK  :KEB HANA BANK
+BENE. ACCT  :110121900072812               
+NAME        :RUSMAN                             
+AMOUNT      :Rp.400,000.00
+BALANCE     :Rp.6,957,508.00
+
+    THANK YOU FOR USING
+       ATM KEB HANA
+
+
+
+
+
+
+
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++
+[000191] 26/10/2019 15:23:15 Card Ejected
+[000192] 26/10/2019 15:23:16 Card Removed
+[000193] 26/10/2019 15:23:16 <== Transaction End
+[000194] 26/10/2019 17:05:25 ==> Transaction Start
+[000195] 26/10/2019 17:05:27 Terminal Id: 200031
+[000196] 26/10/2019 17:05:27 Card Inserted
+[000197] 26/10/2019 17:05:27 Card Number: 4602211110702070
+[000198] 26/10/2019 17:05:31 FINAL_APP_SELECTION_SUCCESS
+[000199] 26/10/2019 17:05:37 PIN ENTERED
+[000200] 26/10/2019 17:05:37 PIN Entered: 4602211110702070
+[000201] 26/10/2019 17:05:37 Transaction Req. Send: Succeeded
+[000202] 26/10/2019 17:05:37 [OP Code]: [C       ]
+[000203] 26/10/2019 17:05:37 [Amount Entry Field]: [000000000000]
+[000204] 26/10/2019 17:05:38 [Next State]: [213]
+[000205] 26/10/2019 17:05:38 [Function Identifier]: [3]
+[000206] 26/10/2019 17:05:38 Transaction Res. Received
+[000207] 26/10/2019 17:05:45 Solicited Status Send: Succeeded
+[000208] 26/10/2019 17:05:45 TRANSACTION DATA (COMPLETED)
+[Transaction record]
+OPCode       		 [C       ]
+Function ID       	 [3]
+Card Number 		 [4602211110702070]
+Amount       		 [000000000000]
+Trans SEQ Number [9999]
+Error Code   []
+
+[000209] 26/10/2019 17:05:52 Transaction Req. Send: Succeeded
+[000210] 26/10/2019 17:05:52 [OP Code]: [C       ]
+[000211] 26/10/2019 17:05:52 [Amount Entry Field]: [000000100000]
+[000212] 26/10/2019 17:05:53 [Next State]: [766]
+[000213] 26/10/2019 17:05:53 [Function Identifier]: [5]
+[000214] 26/10/2019 17:05:53 Transaction Res. Received
+[000215] 26/10/2019 17:05:53 Solicited Status Send: Succeeded
+[000216] 26/10/2019 17:05:53 TRANSACTION DATA (COMPLETED)
+[Transaction record]
+OPCode       		 [C       ]
+Function ID       	 [5]
+Card Number 		 [4602211110702070]
+Amount       		 [000000100000]
+Trans SEQ Number [3469]
+Error Code   []
+
+[000217] 26/10/2019 17:06:01 Information Entry : 
+[000218] 26/10/2019 17:06:12 Card Ejected
+[000219] 26/10/2019 17:06:16 Card Removed
+[000220] 26/10/2019 17:06:17 <== Transaction End
+[000221] 26/10/2019 17:06:20 ==> Transaction Start
+[000222] 26/10/2019 17:06:22 Terminal Id: 200031
+[000223] 26/10/2019 17:06:22 Card Inserted
+[000224] 26/10/2019 17:06:23 Card Number: 4602211110702070
+[000225] 26/10/2019 17:06:27 FINAL_APP_SELECTION_SUCCESS
+[000226] 26/10/2019 17:06:34 PIN ENTERED
+[000227] 26/10/2019 17:06:34 PIN Entered: 4602211110702070
+[000228] 26/10/2019 17:06:35 Transaction Req. Send: Succeeded
+[000229] 26/10/2019 17:06:35 [OP Code]: [C       ]
+[000230] 26/10/2019 17:06:35 [Amount Entry Field]: [000000000000]
+[000231] 26/10/2019 17:06:35 [Next State]: [213]
+[000232] 26/10/2019 17:06:35 [Function Identifier]: [3]
+[000233] 26/10/2019 17:06:35 Transaction Res. Received
+[000234] 26/10/2019 17:06:43 Solicited Status Send: Succeeded
+[000235] 26/10/2019 17:06:43 TRANSACTION DATA (COMPLETED)
+[Transaction record]
+OPCode       		 [C       ]
+Function ID       	 [3]
+Card Number 		 [4602211110702070]
+Amount       		 [000000000000]
+Trans SEQ Number [9999]
+Error Code   []
+
+[000236] 26/10/2019 17:06:45 Transaction Req. Send: Succeeded
+[000237] 26/10/2019 17:06:45 [OP Code]: [C       ]
+[000238] 26/10/2019 17:06:45 [Amount Entry Field]: [000000300000]
+[000239] 26/10/2019 17:06:45 [Next State]: [766]
+[000240] 26/10/2019 17:06:45 [Function Identifier]: [5]
+[000241] 26/10/2019 17:06:45 Transaction Res. Received
+[000242] 26/10/2019 17:06:45 Solicited Status Send: Succeeded
+[000243] 26/10/2019 17:06:45 TRANSACTION DATA (COMPLETED)
+[Transaction record]
+OPCode       		 [C       ]
+Function ID       	 [5]
+Card Number 		 [4602211110702070]
+Amount       		 [000000300000]
+Trans SEQ Number [3469]
+Error Code   []
+
+[000244] 26/10/2019 17:06:52 Information Entry : 100000
+[000245] 26/10/2019 17:06:53 Transaction Req. Send: Succeeded
+[000246] 26/10/2019 17:06:53 [OP Code]: [C       ]
+[000247] 26/10/2019 17:06:53 [Amount Entry Field]: [000000300000]
+[000248] 26/10/2019 17:06:53 [Next State]: [301]
+[000249] 26/10/2019 17:06:53 [Function Identifier]: [5]
+[000250] 26/10/2019 17:06:53 Transaction Res. Received
+[000251] 26/10/2019 17:06:54 Solicited Status Send: Succeeded
+[000252] 26/10/2019 17:06:54 TRANSACTION DATA (COMPLETED)
+[Transaction record]
+OPCode       		 [C       ]
+Function ID       	 [5]
+Card Number 		 [4602211110702070]
+Amount       		 [000000300000]
+Trans SEQ Number [3469]
+Error Code   []
+
+[000253] 26/10/2019 17:06:56 Transaction Req. Send: Succeeded
+[000254] 26/10/2019 17:06:56 [OP Code]: [C      C]
+[000255] 26/10/2019 17:06:56 [Amount Entry Field]: [000000300000]
+[000256] 26/10/2019 17:06:57 [Next State]: [217]
+[000257] 26/10/2019 17:06:57 [Function Identifier]: [2]
+[000258] 26/10/2019 17:06:57 Transaction Res. Received
+[000259] 26/10/2019 17:07:07 Notes Dispensed: 
+IDR100000*3
+Total Amount IDR 300000
+A0503:B0037:C0325:D0342:E0001:F0008:R0000
+[000260] 26/10/2019 17:07:07 
+Dispensed Note
+GAR309293,AET563849,JGV906106
+[000261] 26/10/2019 17:07:12 Cash Presented
+[000262] 26/10/2019 17:07:12 Solicited Status Send: Succeeded
+[000263] 26/10/2019 17:07:13 Received: Inservice
+[000264] 26/10/2019 17:07:16 Cash Taken
+[000265] 26/10/2019 17:07:18 Printed Receipt Printer
+[000266] 26/10/2019 17:07:22 TRANSACTION DATA (COMPLETED)
+[Transaction record]
+OPCode       		 [C      C]
+Function ID       	 [2]
+Card Number 		 [4602211110702070]
+Amount       		 [000000300000]
+Denomination 	 [B,B,C,C]
+Request Count 	 [00,00,03,00]
+Dispense Count 	 [0,0,3,0]
+Remain Count 	 [503,37,325,342]
+Pickup Count    	 [0,0,3,0]
+Reject Count    	 [0,0,0,0]
+Trans SEQ Number [2477]
+Error Code   [0000000]
+[Jpr contents]
++++++++++++++++++++++++++++++++++++++++++++++
+
+ 26-10-2019      17:05:42 WIB
+ATM ID    :02200031
+LOKASI    :CRM Mangkuluhur
+NO. URUT  :012477
+NO. RESI  :003100012477
+
+PENARIKAN CEPAT
+JUMLAH    :  Rp.300,000.00
+SALDO     :  Rp.7,145,108.00
+
+ TERIMA KASIH TELAH MENGGUNAKAN
+       ATM KEB HANA
+
+
+
+
+
+
+
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++
+[000267] 26/10/2019 17:07:25 Card Ejected
+[000268] 26/10/2019 17:07:25 Card Removed
+[000269] 26/10/2019 17:07:26 <== Transaction End
+[000270] 26/10/2019 17:28:41 ==> Transaction Start
+[000271] 26/10/2019 17:28:42 Terminal Id: 200031
+[000272] 26/10/2019 17:28:42 Card Inserted
+[000273] 26/10/2019 17:28:43 Card Number: 6064201620649545
+[000274] 26/10/2019 17:28:47 FINAL_APP_SELECTION_SUCCESS
+[000275] 26/10/2019 17:28:53 PIN ENTERED
+[000276] 26/10/2019 17:28:53 PIN Entered: 6064201620649545
+[000277] 26/10/2019 17:28:53 Transaction Req. Send: Succeeded
+[000278] 26/10/2019 17:28:53 [OP Code]: [B       ]
+[000279] 26/10/2019 17:28:53 [Amount Entry Field]: [000000000000]
+[000280] 26/10/2019 17:28:54 [Next State]: [013]
+[000281] 26/10/2019 17:28:54 [Function Identifier]: [3]
+[000282] 26/10/2019 17:28:54 Transaction Res. Received
+[000283] 26/10/2019 17:29:02 Solicited Status Send: Succeeded
+[000284] 26/10/2019 17:29:02 TRANSACTION DATA (COMPLETED)
+[Transaction record]
+OPCode       		 [B       ]
+Function ID       	 [3]
+Card Number 		 [6064201620649545]
+Amount       		 [000000000000]
+Trans SEQ Number [9999]
+Error Code   []
+
+[000285] 26/10/2019 17:29:05 Transaction Req. Send: Succeeded
+[000286] 26/10/2019 17:29:05 [OP Code]: [BB      ]
+[000287] 26/10/2019 17:29:05 [Amount Entry Field]: [000000000000]
+[000288] 26/10/2019 17:29:06 [Next State]: [020]
+[000289] 26/10/2019 17:29:06 [Function Identifier]: [5]
+[000290] 26/10/2019 17:29:06 Transaction Res. Received
+[000291] 26/10/2019 17:29:07 Solicited Status Send: Succeeded
+[000292] 26/10/2019 17:29:07 TRANSACTION DATA (COMPLETED)
+[Transaction record]
+OPCode       		 [BB      ]
+Function ID       	 [5]
+Card Number 		 [6064201620649545]
+Amount       		 [000000000000]
+Trans SEQ Number [7288]
+Error Code   []
+[Jpr contents]
++++++++++++++++++++++++++++++++++++++++++++++
+
+
++++++++++++++++++++++++++++++++++++++++++++++
+[000293] 26/10/2019 17:29:07 Received: Inservice
+[000294] 26/10/2019 17:29:12 Card Ejected
+[000295] 26/10/2019 17:29:14 Card Removed
+[000296] 26/10/2019 17:29:14 <== Transaction End
+[000297] 26/10/2019 17:29:21 ==> Transaction Start
+[000298] 26/10/2019 17:29:23 Terminal Id: 200031
+[000299] 26/10/2019 17:29:23 Card Inserted
+[000300] 26/10/2019 17:29:23 Card Number: 4602211110569222
+[000301] 26/10/2019 17:29:27 FINAL_APP_SELECTION_SUCCESS
+[000302] 26/10/2019 17:29:36 PIN ENTERED
+[000303] 26/10/2019 17:29:36 PIN Entered: 4602211110569222
+[000304] 26/10/2019 17:29:37 Transaction Req. Send: Succeeded
+[000305] 26/10/2019 17:29:37 [OP Code]: [B       ]
+[000306] 26/10/2019 17:29:37 [Amount Entry Field]: [000000000000]
+[000307] 26/10/2019 17:29:37 [Next State]: [013]
+[000308] 26/10/2019 17:29:37 [Function Identifier]: [3]
+[000309] 26/10/2019 17:29:37 Transaction Res. Received
+[000310] 26/10/2019 17:29:45 Solicited Status Send: Succeeded
+[000311] 26/10/2019 17:29:45 TRANSACTION DATA (COMPLETED)
+[Transaction record]
+OPCode       		 [B       ]
+Function ID       	 [3]
+Card Number 		 [4602211110569222]
+Amount       		 [000000000000]
+Trans SEQ Number [9999]
+Error Code   []
+
+[000312] 26/10/2019 17:29:53 Deposit: Shutter opened for notes insertion
+[000313] 26/10/2019 17:29:54 Notes inserted in hopper
+[000314] 26/10/2019 17:30:04 Notes Counted:
+IDR100000 x 5
+Total Amount IDR 500000
+Accepted Note
+PES315411,OBJ743435,VCS769741,GEQ601194,KGS655979
+A0503:B0037:C0325:D0342:E0001:F0008:R0000
+[000315] 26/10/2019 17:30:08 Deposit Confirmed
+[000316] 26/10/2019 17:30:09 Transaction Req. Send: Succeeded
+[000317] 26/10/2019 17:30:09 [OP Code]: [BH      ]
+[000318] 26/10/2019 17:30:09 [Amount Entry Field]: [000050000000]
+[000319] 26/10/2019 17:30:11 [Next State]: [033]
+[000320] 26/10/2019 17:30:11 [Function Identifier]: [-]
+[000321] 26/10/2019 17:30:11 Transaction Res. Received
+[000322] 26/10/2019 17:30:11 Solicited Status Send: Succeeded
+[000323] 26/10/2019 17:30:12 Received: Inservice
+[000324] 26/10/2019 17:30:19 Host Store: Stored
+IDR100000 :5
+A0503:B0037:C0325:D0347:E0001:F0008:R0000
+[000325] 26/10/2019 17:30:20 Printed Receipt Printer
+[000326] 26/10/2019 17:30:24 TRANSACTION DATA (COMPLETED)
+[Transaction record]
+OPCode       		 [BH      ]
+Function ID       	 [-]
+Card Number 		 [4602211110569222]
+Amount       		 [000050000000]
+Trans SEQ Number [3466]
+Error Code   [0000000]
+Rejected Count 	 [0]
+Stored Count 
+[100000, 5]
+A0503:B0037:C0325:D0347:E0001:F0008:R0000
+Stored Note 
+[PES315411,OBJ743435,VCS769741,GEQ601194,KGS655979]
+[Jpr contents]
++++++++++++++++++++++++++++++++++++++++++++++
+                 
+  26-10-2019      17:28:55 WIB
+ATM ID      :02200031
+LOCATION    :CRM Mangkuluhur
+
+SEQ.NO.     :012864
+
+DEPOSIT      
+BENE. BANK  :KEB HANA BANK
+BENE. ACCT  :110121800099612               
+NAME        :OCHA NOVERRIANTI SANTOSO           
+AMOUNT      :Rp.500,000.00
+BALANCE     :Rp.513,246.00
+
+    THANK YOU FOR USING
+       ATM KEB HANA
+
+
+
+
+
+
+
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++
+[000327] 26/10/2019 17:30:29 Card Ejected
+[000328] 26/10/2019 17:30:30 Card Removed
+[000329] 26/10/2019 17:30:30 <== Transaction End
+[000330] 26/10/2019 18:22:25 ==> Transaction Start
+[000331] 26/10/2019 18:22:26 Terminal Id: 200031
+[000332] 26/10/2019 18:22:26 Card Inserted
+[000333] 26/10/2019 18:22:27 Card Number: 4602211000021086
+[000334] 26/10/2019 18:22:39 PIN ENTERED
+[000335] 26/10/2019 18:22:40 PIN Entered: 4602211000021086
+[000336] 26/10/2019 18:22:40 Transaction Req. Send: Succeeded
+[000337] 26/10/2019 18:22:40 [OP Code]: [C       ]
+[000338] 26/10/2019 18:22:40 [Amount Entry Field]: [000000000000]
+[000339] 26/10/2019 18:22:41 [Next State]: [213]
+[000340] 26/10/2019 18:22:41 [Function Identifier]: [3]
+[000341] 26/10/2019 18:22:41 Transaction Res. Received
+[000342] 26/10/2019 18:22:48 Solicited Status Send: Succeeded
+[000343] 26/10/2019 18:22:48 TRANSACTION DATA (COMPLETED)
+[Transaction record]
+OPCode       		 [C       ]
+Function ID       	 [3]
+Card Number 		 [4602211000021086]
+Amount       		 [000000000000]
+Trans SEQ Number [9999]
+Error Code   []
+
+[000344] 26/10/2019 18:22:58 Deposit: Shutter opened for notes insertion
+[000345] 26/10/2019 18:22:59 Notes inserted in hopper
+[000346] 26/10/2019 18:23:05 Shutter opened for notes removal
+[000347] 26/10/2019 18:23:06 Deposit: Notes removal detected
+[000348] 26/10/2019 18:23:19 Notes inserted in hopper
+[000349] 26/10/2019 18:23:30 Notes Counted:
+IDR100000 x 8
+Total Amount IDR 800000
+Accepted Note
+QFC867809,QFC867808,EDC856276,EDC856275,EDC856274,
+EDC856273,EDC856272,QFC867858
+A0503:B0037:C0325:D0347:E0001:F0008:R0000
+[000350] 26/10/2019 18:23:34 Deposit Confirmed
+[000351] 26/10/2019 18:23:37 Transaction Req. Send: Succeeded
+[000352] 26/10/2019 18:23:37 [OP Code]: [CH      ]
+[000353] 26/10/2019 18:23:37 [Amount Entry Field]: [000080000000]
+[000354] 26/10/2019 18:23:38 [Next State]: [233]
+[000355] 26/10/2019 18:23:38 [Function Identifier]: [-]
+[000356] 26/10/2019 18:23:39 Transaction Res. Received
+[000357] 26/10/2019 18:23:39 Solicited Status Send: Succeeded
+[000358] 26/10/2019 18:23:40 Received: Inservice
+[000359] 26/10/2019 18:23:47 Host Store: Stored
+IDR100000 :8
+A0503:B0037:C0325:D0355:E0001:F0008:R0000
+[000360] 26/10/2019 18:23:49 Printed Receipt Printer
+[000361] 26/10/2019 18:23:52 TRANSACTION DATA (COMPLETED)
+[Transaction record]
+OPCode       		 [CH      ]
+Function ID       	 [-]
+Card Number 		 [4602211000021086]
+Amount       		 [000080000000]
+Trans SEQ Number [3466]
+Error Code   [0000000]
+Rejected Count 	 [0]
+Stored Count 
+[100000, 8]
+A0503:B0037:C0325:D0355:E0001:F0008:R0000
+Stored Note 
+[QFC867809,QFC867808,EDC856276,EDC856275,EDC856274,
+EDC856273,EDC856272,QFC867858]
+[Jpr contents]
++++++++++++++++++++++++++++++++++++++++++++++
+                 
+  26-10-2019      18:22:23 WIB
+ATM ID      :02200031
+LOKASI      :CRM Mangkuluhur
+
+NO. URUT    :013469
+
+SETOR      
+BANK TUJUAN :KEB HANA BANK
+REK. TUJUAN :111021300011512               
+NAMA        :MARIA FEBRIANY SUPARWANTO          
+SETOR       :Rp.800,000.00
+SALDO       :Rp.1,020,394.00
+
+ TERIMA KASIH TELAH MENGGUNAKAN
+       ATM KEB HANA
+
+
+
+
+
+
+
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++
+[000362] 26/10/2019 18:23:58 Card Ejected
+[000363] 26/10/2019 18:23:59 Card Removed
+[000364] 26/10/2019 18:23:59 <== Transaction End

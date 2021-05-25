@@ -1,0 +1,10 @@
+c:\users\acer\documents\visual studio 2010\Projects\RawToDatabase\RawToDatabase\bin\Debug\RawToDatabase.exe
+c:\users\acer\documents\visual studio 2010\Projects\RawToDatabase\RawToDatabase\bin\Debug\RawToDatabase.pdb
+c:\users\acer\documents\visual studio 2010\Projects\RawToDatabase\RawToDatabase\obj\x86\Debug\RawToDatabase.Form1.resources
+c:\users\acer\documents\visual studio 2010\Projects\RawToDatabase\RawToDatabase\obj\x86\Debug\RawToDatabase.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2010\Projects\RawToDatabase\RawToDatabase\obj\x86\Debug\RawToDatabase.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2010\Projects\RawToDatabase\RawToDatabase\obj\x86\Debug\RawToDatabase.exe
+c:\users\acer\documents\visual studio 2010\Projects\RawToDatabase\RawToDatabase\obj\x86\Debug\RawToDatabase.pdb
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\RawToDatabase\RawToDatabase\obj\x86\Debug\RawToDatabase.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\Read Journal\RawToDatabase\obj\x86\Debug\RawToDatabase.exe
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\Read Journal\RawToDatabase\obj\x86\Debug\RawToDatabase.pdb
